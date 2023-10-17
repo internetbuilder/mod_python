@@ -1,4 +1,4 @@
-mod_python
+mmod_python
 ==========
 
 Documentation for mod_python is on http://www.modpython.org/
